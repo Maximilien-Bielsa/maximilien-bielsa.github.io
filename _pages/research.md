@@ -9,34 +9,20 @@ redirect_from:
 
 <hr>
 
-## Publications and Accepted Papers
-* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"**](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222) 2022.
-  * Published in ***Journal of Macroeconomics***, Volume 72. 
-* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, 2022.
-  * Published in ***Review of Economic Dynamics***, Volume 46, Pages 280-301. 
-  * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
-  * [Replication codes](https://ideas.repec.org/c/red/ccodes/19-50.html)
-  * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
-  * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
-* [**"Fiscal forward guidance: A case for selective transparency,"**](https://doi.org/10.1016/j.jmoneco.2019.10.007) with Ippei Fujiwara, 2020.
-   * Published in ***the Journal of Monetary Economics***, Volume 116, pages 236-248. 
-   * [Online Appendix](/files/Fujiwara_Waki_FFG_Appendix.pdf)
-* [**"The Optimal Degree of Monetary-Discretion in a New Keynesian Model with Private Information,"**](https://econtheory.org/ojs/index.php/te/article/view/20181319) with Richard Dennis and Ippei Fujiwara, 2018.
-  * Published in ***Theoretical Economics***, Volume 13, Number 3, pages 1319–1368. 
-  * Online Appendix is available from the above hyperlink.
-* [**"Some Unpleasant Properties of Loglinearized Solutions When the Nominal Rate is Zero,"**](https://doi.org/10.1016/j.jmoneco.2016.10.012) with Lena Mareen Boneva and R. Anton Braun, 2016.
-  * Published in ***the Journal of Monetary Economics***, Volume 84, pages 216–232.
-  *  [Online Appendix](/files/Boneva_Braun_Waki_2016_jme_append.pdf)
-* [**"A Polyhedral Approximation Approach to Concave Numerical Dynamic Programming,"**](https://doi.org/10.1016/j.jedc.2013.06.001) with Kenichi Fukushima, 2013.
-  * Published in  ***Journal of Economic Dynamics and Control***, Volume 37, Issue 11, pages 2322–2335. 
-* [**"Monetary Policy during Japan's Lost Decade,"**](https://doi.org/10.1111/j.1468-5876.2006.00371.x) with R. Anton Braun, 2006.
-  * Published in ***the Japanese Economic Review***, Vol. 57. No. 2, pp.324-344.
+## Job Market Paper
+* # Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US
+Assistive Reproductive Treatment clinics use various procedures to help patients facing infertility issues, or same-sex couples, have children. Using CDC Data, I find that in states with ART insurance mandates, the Affordable Care Act caused an increase of 114-119 frozen births per clinic, due to frozen births being the cheapest procedure. Additionally, same-sex marriage legalization boosted frozen donated births by 6-10 births per clinic, and is driven by same-sex couples uptake of ART. However, these effects diminish at the clinic level due to an increase in the number of clinics following these policy changes, and an exhaustion of the demand.
 
 <hr>
 
 ## Working Papers
-* [**"Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"**](/files/Waki_ZeroLiquidityHANK.pdf) **NEW DRAFT**
-* "Commitment vs. Flexibility in New Keynesian Models," draft coming soon.
+
+* # The Impact of Same-Sex Marriage Legalization on Adoptions
+The legalization of same-sex marriage (SSM) in the United States had many economic impacts on households. This paper aims to investigate the impact of SSM legalization on adoptive households across the United States, using the staggered legalization of states. Using ACS data from 2008-2016, this paper views this impact on households of men and women in same-sex relationships. This paper finds that women in same-sex relationships have a downward trend of adopting. This paper additionally, finds that women in same-sex adoptive households have higher income by 20 percentage points after legalization of SSM, compared to women in non-adoptive same-sex households.
+
+* # Resume Audit Study on the Impact of Pronoun use on Resumes
+Resume Audit Studies (RAS) are one of the only ways to document the existence of discrimination within hiring practices through callback rates. In this paper, I will attempt to run a RAS to look into the use of pronouns on resumes. The first branch of results will investigate whether including pronouns on your resume will decrease the rate by which an employer requests more information. Building on this, the second branch will investigate whether the state and current LGBT+ laws protect these individuals. After this, the final addition will examine the effects of different industries by their census gender makeup.
+
 * [**"Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
 * [**"Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"**](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
