@@ -23,10 +23,5 @@ The legalization of same-sex marriage (SSM) in the United States had many econom
 * # Resume Audit Study on the Impact of Pronoun use on Resumes
 Resume Audit Studies (RAS) are one of the only ways to document the existence of discrimination within hiring practices through callback rates. In this paper, I will attempt to run a RAS to look into the use of pronouns on resumes. The first branch of results will investigate whether including pronouns on your resume will decrease the rate by which an employer requests more information. Building on this, the second branch will investigate whether the state and current LGBT+ laws protect these individuals. After this, the final addition will examine the effects of different industries by their census gender makeup.
 
-* [**"Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
-  * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
-* [**"Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"**](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
-  * [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
-* [**"On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"**](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010.   
-  * [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf). 
+
 
