@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuichiro Waki"
+title                    : "Maximilien Bielsa"
 title_separator          : "-"
-name                     : &name "Yuichiro Waki"
-description              : &description "Associate Professor of Economics, Aoyama Gakuin University"
+name                     : &name "Maximilien Bielsa"
+description              : &description "PhD Student, University of Delaware"
 url                      : https://ywaki-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : #
 future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -33,7 +33,7 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
+  commitMessage          : #"New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuichiro Waki"
+  name             : "Maximilien Bielsa"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Economics, Aoyama Gakuin University"
-  location         : "Tokyo"
-  employer         : "Aoyama Gakuin University"
+  bio              : "Economics PhD Student"
+  location         : "Delaware, USA"
+  employer         : "University of Delaware"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            : "ywakiecon@gmail.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
+  email            : "maximilienbielsa@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywaki-econ"
+  github           : # "ywaki-econ"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-1929-3520"
+  orcid            : # "http://orcid.org/0000-0003-1929-3520"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchmap      : "https://researchmap.jp/yuichirowaki/"
+  researchmap      : # "https://researchmap.jp/yuichirowaki/"
 
 
 # Reading Files
