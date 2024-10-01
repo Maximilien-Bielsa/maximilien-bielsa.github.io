@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "推薦状について"
+title: "Teaching"
 permalink: /referenceletter/
 author_profile: true
 redirect_from:
