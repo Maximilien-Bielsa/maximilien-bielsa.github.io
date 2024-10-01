@@ -10,7 +10,7 @@ redirect_from:
 <hr>
 
 ## Job Market Paper
-* # [Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US](files/The_Impact_of_ACA_and_Same_Sex_Marriage_Legalization_on_ART.pdf)
+* # [Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US](files/The_Impact_of_Same_Sex_Marriage_Legalization_on_Adoptions.pdf)
 Assistive Reproductive Treatment clinics use various procedures to help patients facing infertility issues, or same-sex couples, have children. Using CDC Data, I find that in states with ART insurance mandates, the Affordable Care Act caused an increase of 114-119 frozen births per clinic, due to frozen births being the cheapest procedure. Additionally, same-sex marriage legalization boosted frozen donated births by 6-10 births per clinic, and is driven by same-sex couples uptake of ART. However, these effects diminish at the clinic level due to an increase in the number of clinics following these policy changes, and an exhaustion of the demand.
 
 <hr>
