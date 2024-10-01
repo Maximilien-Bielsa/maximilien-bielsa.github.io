@@ -11,7 +11,7 @@ title                    : "Yuichiro Waki"
 title_separator          : "-"
 name                     : &name "Yuichiro Waki"
 description              : &description "Associate Professor of Economics, Aoyama Gakuin University"
-url                      : https://ywaki-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://maximilien-bielsa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuichiro Waki"
+  name             : "Maximilien Bielsa"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Economics, Aoyama Gakuin University"
-  location         : "Tokyo"
-  employer         : "Aoyama Gakuin University"
+  bio              : "PhD Student, University of Delaware"
+  location         : "Delaware"
+  employer         : "University of Delaware"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            : "ywakiecon@gmail.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
+  email            : "mtbielsa@udel.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywaki-econ"
+  github           : # "ywaki-econ"
   google_plus      :
   keybase          :
   instagram        :
