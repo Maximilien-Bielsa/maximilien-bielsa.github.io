@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /referenceletter/
+permalink: /Teaching/
 author_profile: true
 redirect_from:
   - /referenceletter
