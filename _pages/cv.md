@@ -3,7 +3,8 @@ layout: archive
 title: "CV --- YUICHIRO WAKI"
 permalink: files/Boneva_Braun_Waki_2016_jme_append.pdf
 author_profile: true
-
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
