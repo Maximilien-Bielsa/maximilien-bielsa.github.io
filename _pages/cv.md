@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV --- YUICHIRO WAKI"
+title: "CV --- Maximilien Bielsa"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,9 @@ redirect_from:
 
 Contact Information
 ======
-* **Address**: Department of Economics, Aoyama Gakuin University, 4-4-25 Shibuya, Shibuya-ku, Tokyo 150-8366, JAPAN.
-* **e-mail**: ywakiecon@gmail.com    
+* **Address**: Department of Economics, University of Delaware, 4-4-25 Shibuya, Shibuya-ku, Tokyo 150-8366, JAPAN.
+* **Phone Number**: 609-424-9681 
+* **E-mail**: mtbielsa@udel.edu    
 
 Current Position
 ======
@@ -29,9 +30,9 @@ Previous Positions
 
 Education
 ======
-* B.A. in Economics, the University of Tokyo, 2003
-* M.A. in Economics, the University of Tokyo, 2005
-* Ph.D in Economics, the University of Minnesota, Twin Cities, 2011
+* B.A. in Economics, Rowan Univerity, 2019
+* B.A. in Mathematics, Rowan Univerity, 2019
+* M.S. in Economics, University of Delaware, 2021
 
 Honors and Awards
 ======
