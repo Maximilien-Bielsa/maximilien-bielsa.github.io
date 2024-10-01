@@ -12,20 +12,17 @@ redirect_from:
 
 ## Upcoming Presentations
 
-* 発表者：Shinnosuke Kikuchi (MIT)
-  * 発表論文：“Automation, Fragmentation, and Changes in Comparative Advantage”
-  * 日時：2024/5/31（金）, 10:30-12:00
-  * 場所：プレゼンテーション・ルーム（8号館6F経済合同研内）
+* AEA CSQIEP weekly seminar
+  * Presenting： “Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US”
+  * When：2024/10/18, 12:00 pm ET
+  * Where： Virtually via Zoom
+ 
+* University Of Delaware Departmental Job Talks
+  * Presenting： “Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US”
+  * When：2024/12/10, 2:00 pm - 3:30 pm ET
+  * Where： The University of Delaware, Purnell Hall Room 450
 
 
 ## Past Presentations 
 
-* 発表者：Yu Awaya (University of Rochester)
-  * 発表論文："Spreading Information via Social Networks: An Irrelevance Result" (With Vijay Krishna)
-  * 日時：2024/3/15（金）, 10:30-12:00
-  * 場所：プレゼンテーション・ルーム（8号館6F経済合同研内）
 
-* 発表者： Jorge-Miranda Pinto (IMF and University of Queensland)
-  * 発表論文："A Model of Expenditure Shocks" (with Daniel Murphy, Kieran James Walsh, and Eric R. Young)
-  * 日時：2023/12/1（金），10:30-12:00
-  * 場所：プレゼンテーション・ルーム（8号館6F経済合同研内）
