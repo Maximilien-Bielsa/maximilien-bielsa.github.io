@@ -23,4 +23,4 @@ Classes Instructed
 ======
 * **Introduction to Microeconomics**: Winter 2022 
 * **Introduction to Macroeconomics**: Summer 2022 & Winter 2023
-* **Introduction to Microeconomics**: Fall 2024
+* **Economic Issues and Policies**: Fall 2024
