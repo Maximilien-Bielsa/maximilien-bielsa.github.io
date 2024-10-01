@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "セミナー開催情報"
+title: "Seminars"
 permalink: /seminars/
 author_profile: true
 redirect_from:
@@ -9,11 +9,8 @@ redirect_from:
   - /seminar/
 ---
 
-青山学院大学経済学部で開催するセミナー情報です．私が開催に携わっているもののみ掲載しています．
 
-現在のところ開催場所が手狭なので、学外から参加される方は事前にywakiecon@gmail.com（もしくはXやBlueskyのDM）まで一報いただけると助かります．
-
-## 今後開催予定
+## Upcoming Presentations
 
 * 発表者：Shinnosuke Kikuchi (MIT)
   * 発表論文：“Automation, Fragmentation, and Changes in Comparative Advantage”
@@ -21,7 +18,7 @@ redirect_from:
   * 場所：プレゼンテーション・ルーム（8号館6F経済合同研内）
 
 
-## 開催済み 
+## Past Presentations 
 
 * 発表者：Yu Awaya (University of Rochester)
   * 発表論文："Spreading Information via Social Networks: An Irrelevance Result" (With Vijay Krishna)
