@@ -9,6 +9,8 @@ redirect_from:
 
 ## [Diversity Statement]()
 
+<hr>
+
 Diversity Initiatives
 ======
 * **Treasurer**: Queer and Transgender Graduate Student Union, University of Delaware, Newark, Delaware
