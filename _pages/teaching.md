@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "[Teaching Statement]()"
 permalink: /teaching/
 author_profile: true
 redirect_from:
