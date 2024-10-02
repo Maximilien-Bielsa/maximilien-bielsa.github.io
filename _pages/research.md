@@ -10,7 +10,7 @@ redirect_from:
 <hr>
 
 ## [Research Statement](The_Impact_of_ACA_and_Same_Sex_Marriage_Legalization_on_ART.pdf)
-
+<hr>
 ## Job Market Paper
 * [**"Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US"**](/files/The_Impact_of_ACA_and_Same_Sex_Marriage_Legalization_on_ART.pdf)
 
