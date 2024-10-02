@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /teaching
 ---
-
+#
 ## [Teaching Statement]()
-
+#
+#
 Teaching Experience
 ======
 * **Instructor**: Department of Economics, University of Delaware, Newark, Delaware
