@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Seminars"
+title: ""
 permalink: /seminars/
 author_profile: true
 redirect_from:
@@ -9,6 +9,10 @@ redirect_from:
   - /seminar/
 ---
 
+Seminars
+======
+
+<hr>
 
 ## Upcoming Presentations
 
@@ -22,6 +26,7 @@ redirect_from:
   * When: 2024/12/10, 2:00 pm - 3:30 pm ET
   * Where: The University of Delaware, Purnell Hall Room 450
 
+<hr>
 
 ## Past Presentations 
 
