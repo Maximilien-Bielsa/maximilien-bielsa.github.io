@@ -11,6 +11,8 @@ redirect_from:
 Maximilien Bielsa's website
 ======
 
+<hr>
+
 I am a PhD Student in the Department of Economics at the University of Delaware. 
 
 My current papers work with Assisted Reproductive Technology and child adoption relating to Same-Sex Marriage Legalization, and a resume audit study on the impact of pronouns on resumes.
