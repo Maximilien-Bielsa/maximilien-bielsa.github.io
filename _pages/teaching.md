@@ -9,6 +9,7 @@ redirect_from:
 
 ## [Teaching Statement]()
 
+<hr>
 
 Teaching Experience
 ======
@@ -19,6 +20,7 @@ Spring 2023 - Spring 2024
 * **Teaching Assistant**: Department of Economics, University of Delaware, Newark, Delaware
 Fall 2020 - Fall 2022
 
+<hr>
 
 Classes Instructed
 ======
