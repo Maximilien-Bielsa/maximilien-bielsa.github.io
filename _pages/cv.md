@@ -35,8 +35,8 @@ redirect_from:
 
 ## Honors and Awards
 
-* 2019, Rowan University Economics Department Senior of Distinction Nominee
-* 2017, Rowan University Mathematics Department Student Award for Research 
+* Rowan University Economics Department Senior of Distinction Nominee, 2019
+* Rowan University Mathematics Department Student Award for Research, 2017
 
 <hr>
 
