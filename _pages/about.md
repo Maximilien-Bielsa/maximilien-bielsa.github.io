@@ -13,7 +13,7 @@ I am a PhD Student in the Department of Economics at the University of Delaware.
 
 My research interests include Labor Economics, Health Economics, and Experimental Economics with a particular focus on LGBT+ Individuals and households. 
 
-**Contact**: maximilienbielsa@gmail.com
+**Contact**: mtbielsa@udel.edu
 
 
 
