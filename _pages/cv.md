@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
 ## [CV](/files/Maximilien_Bielsa_s_CV.pdf)
