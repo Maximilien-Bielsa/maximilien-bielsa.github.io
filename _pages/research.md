@@ -7,7 +7,6 @@ redirect_from:
   - /research
 ---
 
-<hr>
 
 [Research Statement](The_Impact_of_ACA_and_Same_Sex_Marriage_Legalization_on_ART.pdf)
 ======
