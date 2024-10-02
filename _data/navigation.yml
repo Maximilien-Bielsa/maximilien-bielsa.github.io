@@ -2,16 +2,16 @@
 main:
 
   - title: "CV"
-    url: maximilienbielsa.com/cv/
+    url: /cv/
     
   - title: "Papers"
-    url: maximilienbielsa.com/research/
+    url: /research/
 
   - title: "Seminars"
-    url: maximilienbielsa.com/seminars/
+    url: /seminars/
 
   - title: "Teaching"
-    url: maximilienbielsa.com/teaching/
+    url: /teaching/
 
   - title: "Diversity"
-    url: maximilienbielsa.com/diversity/
+    url: /diversity/
