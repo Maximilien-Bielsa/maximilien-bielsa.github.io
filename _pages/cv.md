@@ -18,7 +18,7 @@ redirect_from:
 
 ## Contact Information
 
-* **Address**: Department of Economics, University of Delaware, 4-4-25 Shibuya, Shibuya-ku, Tokyo 150-8366, JAPAN.
+* **Address**: Department of Economics, University of Delaware, 42 Amstel Ave, Newark, DE 19716
 * **Phone Number**: 609-424-9681 
 * **E-mail**: mtbielsa@udel.edu
 
@@ -42,7 +42,7 @@ redirect_from:
 
 ## Research Experience
 
-* **Research Assistant**: Department of Economics, University of Delaware, Newark, Delaware
+* **Research Assistant**: Department of Economics, University of Delaware, Newark, Delaware </p>
 Fall 2019 - Spring 2020
-* **Undergraduate Research Assistant**: Department of Anthropology, Rowan University, Glassboro, New Jersey
+* **Undergraduate Research Assistant**: Department of Anthropology, Rowan University, Glassboro, New Jersey </p>
 Spring 2016 - Spring 2019
