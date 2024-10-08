@@ -42,7 +42,7 @@ redirect_from:
 
 ## Research Experience
 
-* **Research Assistant**: Department of Economics, University of Delaware, Newark, Delaware </p>
+* **Research Assistant**: Department of Economics, University of Delaware, Newark, Delaware\
 Fall 2019 - Spring 2020
-* **Undergraduate Research Assistant**: Department of Anthropology, Rowan University, Glassboro, New Jersey </p>
+* **Undergraduate Research Assistant**: Department of Anthropology, Rowan University, Glassboro, New Jersey\
 Spring 2016 - Spring 2019
