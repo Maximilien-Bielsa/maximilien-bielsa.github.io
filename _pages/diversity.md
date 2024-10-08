@@ -7,7 +7,7 @@ redirect_from:
   - /diversity
 ---
 
-[Diversity Statement]()
+[Diversity Statement](/files/Diversity_Statement.pdf)
 ======
 
 <hr>
