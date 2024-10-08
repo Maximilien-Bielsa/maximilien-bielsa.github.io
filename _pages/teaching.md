@@ -14,17 +14,19 @@ redirect_from:
 
 ## Teaching Experience
 
-* **Instructor**: Department of Economics, University of Delaware, Newark, Delaware
+* **Instructor**: Department of Economics, University of Delaware, Newark, Delaware\
 Winter 2022, Summer 2022, Winter 2023 & Fall 2024
-* **Head Teaching Assistant**: Department of Economics, University of Delaware, Newark, Delaware
+* **Head Teaching Assistant**: Department of Economics, University of Delaware, Newark, Delaware\
 Spring 2023 - Spring 2024
-* **Teaching Assistant**: Department of Economics, University of Delaware, Newark, Delaware
+* **Teaching Assistant**: Department of Economics, University of Delaware, Newark, Delaware\
 Fall 2020 - Fall 2022
 
 <hr>
 
-## Classes Instructed
+## Classes Instructed as Professor
 
 * **Introduction to Microeconomics**: Winter 2022 
 * **Introduction to Macroeconomics**: Summer 2022 & Winter 2023
 * **Economic Issues and Policies**: Fall 2024
+
+
