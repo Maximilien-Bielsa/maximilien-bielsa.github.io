@@ -7,7 +7,7 @@ redirect_from:
   - /teaching
 ---
 
-[Teaching Statement]()
+[Teaching Statement](/files/Teaching_Statement.pdf)
 ======
 
 <hr>
