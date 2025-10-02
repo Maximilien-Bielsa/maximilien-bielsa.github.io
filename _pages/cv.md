@@ -29,7 +29,7 @@ redirect_from:
 * **B.A. in Economics**, Rowan Univerity, 2019
 * **B.A. in Mathematics**, Rowan Univerity, 2019
 * **M.S. in Economics and Econometrics**, University of Delaware, 2021
-* **Ph.D. in Economics and Econometrics**, University of Delaware, Expected Graduation Spring 2025
+* **Ph.D. in Economics and Econometrics**, University of Delaware, Expected Graduation Spring 2026
 
 <hr>
 
