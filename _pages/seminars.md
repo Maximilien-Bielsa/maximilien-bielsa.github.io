@@ -16,10 +16,7 @@ Seminars
 
 ## Upcoming Presentations
 
-* **Boston University WERise 2025**
-  * Presenting: “Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US”
-  * When: 10/03/2024
-  * Where: Boston University
+
 
 
 
@@ -27,6 +24,10 @@ Seminars
 
 ## Past Presentations 
 
+* **Boston University WERise 2025**
+  * Presenting: “Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US”
+  * When: 10/03/2025
+  * Where: Boston University
  
 * **University of Delaware Departmental Job Talk**
   * Presenting: “Another Baby Boom? How Same-Sex Marriage and the Affordable Care Act Increased Births in the US”
