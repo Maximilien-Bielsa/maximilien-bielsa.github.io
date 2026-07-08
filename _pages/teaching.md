@@ -27,6 +27,6 @@ Fall 2020 - Fall 2022
 
 * **Introduction to Microeconomics**: Winter 2022 
 * **Introduction to Macroeconomics**: Summer 2022 & Winter 2023
-* **Economic Issues and Policies**: Fall 2024 - Fall 2025
+* **Economic Issues and Policies**: Fall 2024 - Spring 2026
 
 
