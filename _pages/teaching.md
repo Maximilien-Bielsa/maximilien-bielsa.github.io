@@ -15,7 +15,7 @@ redirect_from:
 ## Teaching Experience
 
 * **Instructor**: Department of Economics, University of Delaware, Newark, Delaware\
-Winter 2022, Summer 2022, Winter 2023, & Fall 2024 - Fall 2025
+Winter 2022, Summer 2022, Winter 2023, & Fall 2024 - Spring 2026
 * **Head Teaching Assistant**: Department of Economics, University of Delaware, Newark, Delaware\
 Spring 2023 - Spring 2024
 * **Teaching Assistant**: Department of Economics, University of Delaware, Newark, Delaware\
