@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+
 [Research Statement](/files/Research_Statement.pdf)
 ======
 
