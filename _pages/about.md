@@ -13,7 +13,7 @@ Maximilien Bielsa's website
 
 <hr>
 
-I am a PhD Student in the Department of Economics at the University of Delaware. 
+I am a researcher and professor with a PhD in Economics from the University of Delaware. 
 
 My current research explores how the Affordable Care Act (ACA) and Same-sex Marriage (SSM) laws affect family structures by influencing the use of assisted reproductive technology and child adoption. Additionally, I have conducted a resume audit study examining the effect of pronouns on resumes.
 
