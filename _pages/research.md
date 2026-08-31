@@ -23,11 +23,11 @@ Assistive Reproductive Treatment (ART) clinics use various procedures to help pa
 
 ## Working Papers
 
-* [**"The Impact of Same-Sex Marriage Legalization on Adoptions"**](/files/The_Impact_of_Same_Sex_Marriage_Legalization_on_Adoptions.pdf)
+* [**"Same-Sex Marriage's Impact on Adoptive Same-Sex Families"**](/files/The_Impact_of_Same_Sex_Marriage_Legalization_on_Adoptions.pdf)
 
 The legalization of same-sex marriage (SSM) in the United States has had significant economic impacts on households. In this paper, I explore how SSM legalization has affected adoptive households nationwide, leveraging the staggered rollout across different states. Using data from the American Community Survey (ACS) from 2008 to 2016, I analyze the impact on households led by men and women in same-sex relationships. I find that SSM legalization led to lower adoption rates for women in same-sex relationships. Furthermore, women in same-sex adoptive households experienced an income increase, averaging 20 percentage points higher after SSM legalization compared to women in non-adoptive same-sex households.
 
-* [**"Resume Audit Study on the Impact of Pronoun use on Resumes"**](/files/Resume_Audit_Study_on_the_Impact_of_Pronoun_use_on_Resumes.pdf)
+* [**"State-Level Protections for LGBT+ Individuals and Hiring Discrimination on Non-Binary, Transgender Individuals: A Resume Audit Study"**](/files/Resume_Audit_Study_on_the_Impact_of_Pronoun_use_on_Resumes.pdf)
 
 Resume Audit Studies (RAS) are one of the only ways to document the existence of discrimination within hiring practices through callback rates. In this paper, I attempt to run a RAS to look into the use of pronouns on resumes. I investigate whether including pronouns on your resume will decrease the rate by which an employer requests more information, and whether the state and current LGBT+ laws protect these individuals. I find that pronouns are not as substantial an issue as the perceived gender of your name. I additionally find that Artificial Intelligence may impede any future RAS.
 
