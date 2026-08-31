@@ -40,7 +40,7 @@ redirect_from:
 
 <hr>
 
-## Research Experience
+## Research Experience (Outside of Ph.D.)
 
 * **Research Assistant**: Department of Economics, University of Delaware, Newark, Delaware\
 Fall 2019 - Spring 2020
